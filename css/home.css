@@ -99,11 +99,12 @@ article{
 }
 
 
-.homebox{	
-	position: absolute;
-	top: 950px;
-	left: 1000px;
-	z-index: 30000;
+.homeb{	
+ display: flex;
+  /* 水平置中 */
+  justify-content: center;    
+  /* 垂直置中 */
+  align-items: center;
 }
 
 
