@@ -98,13 +98,13 @@ article{
 	left: 1100px;
 }
 
+
 .homebox{	
-	position: relative;
-	top: 1%;
-	left: 50%;
-	opacity: 55%;
-	
+	position: absolute;
+	top: 850px;
+	left: 1100px;
 }
+
 
 .fake{	
 	opacity: 40%;
