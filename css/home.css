@@ -101,8 +101,9 @@ article{
 
 .homebox{	
 	position: absolute;
-	top: 850px;
-	left: 1100px;
+	top: 950px;
+	left: 1000px;
+	z-index: 10000;
 }
 
 
