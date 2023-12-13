@@ -95,7 +95,7 @@ article{
 article .picbox, article .desbox{
 	float: left;
 	position: relative;
-	width: 50%;
+	width: 60%;
 	box-sizing: border-box;
 }
 
