@@ -100,7 +100,8 @@ article{
 
 
 .homeb{	
-background: black;
+ background: black;
+width: 20%;
  display: flex;
   /* 水平置中 */
   justify-content: center;    
