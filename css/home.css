@@ -102,10 +102,9 @@ article{
 .homeb{	
  background: black;
 width: 20%;
-	position: absolute;
-	top: 400px;
-	left: 1500px; 
-  /* 垂直置中 */
+	position: relative;
+	top: 50%;
+	left: 50%; 
   align-items: center;
 }
 
