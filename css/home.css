@@ -103,8 +103,8 @@ article{
  background: black;
 width: 20%;
 	position: absolute;
-	top: 650px;
-	left: 1100px; 
+	top: 800px;
+	left: 1500px; 
   /* 垂直置中 */
   align-items: center;
 }
