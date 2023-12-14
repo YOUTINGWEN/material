@@ -102,9 +102,9 @@ article{
 .homeb{	
  background: black;
 width: 20%;
- display: flex;
-  /* 水平置中 */
-  justify-content: center;    
+	position: absolute;
+	top: 650px;
+	left: 1100px; 
   /* 垂直置中 */
   align-items: center;
 }
