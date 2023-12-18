@@ -156,7 +156,7 @@ width: 7%;
 	position: relative;
 	top: 30%;
 	left: 50%;
-	opacity: 55%;
+	opacity: 65%;
 }
 
 
@@ -181,4 +181,13 @@ width: 7%;
 	top: 45%;
 	left: 75%;
 	opacity: 40%;
+}
+
+
+
+.sound10{
+	position: absolute;
+	top: 10%;
+	left: 55%;
+	opacity: 50%;
 }
