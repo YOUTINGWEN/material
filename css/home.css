@@ -20,7 +20,9 @@
 }
 
 
-
+audio{
+	width:10%;
+}
 audio::-webkit-media-controls-panel {
   background-color:#FFCB00;
 }
