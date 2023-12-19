@@ -21,7 +21,7 @@
 
 
 audio::-webkit-media-controls-panel {
-	width:10%;
+	width:100px;
   background-color:#FFCB00;
 }
 
