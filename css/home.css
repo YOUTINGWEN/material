@@ -23,6 +23,9 @@
 audio::-webkit-media-controls-panel {
   background-color:#FFCB00;
 }
+audio{
+	width:30%;
+}
 
 
 body{
