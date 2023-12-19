@@ -21,7 +21,10 @@
 
 
 audio {
-  width: 10%;
+  width: 8%;
+}
+audio::-webkit-media-controls-enclosure {
+  max-width: none
 }
 audio::-webkit-media-controls-panel {
   background-color:#FFCB00;
