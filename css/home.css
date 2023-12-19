@@ -22,7 +22,7 @@
 
 
 audio::-webkit-media-controls-panel {
-  background-color:#FF0004;
+  background-color:#5C5C5C;
 }
 audio::-webkit-media-controls-play-button {
   background: url("../images/arrow.png")10px no-repeat;
