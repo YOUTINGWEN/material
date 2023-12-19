@@ -112,7 +112,7 @@ audio::-webkit-media-controls-panel {
   background-color:#898989;
 }
 audio::-webkit-media-controls-play-button {
-  background: url("箭頭.png")10px no-repeat;
+  background: url("arrow.png")10px no-repeat;
 } 
 
 
