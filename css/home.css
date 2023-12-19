@@ -99,8 +99,30 @@ article{
 }
 
 
+
+
+
+
+audio::-webkit-media-controls-enclosure {
+  max-width: none
+}
+audio::-webkit-media-controls-panel {
+  background-color:#898989;
+}
+
+
+audio::-webkit-media-controls-play-button {
+  background: url("箭頭.png")10px no-repeat;
+} 
+
+
+
+
+
+
+
 .homeb{	
- background: black;
+background: black;
 width: 7%;
 	position: relative;
 	top: 63%;
